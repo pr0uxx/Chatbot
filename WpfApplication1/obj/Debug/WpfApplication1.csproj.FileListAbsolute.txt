@@ -1,0 +1,14 @@
+Z:\Users\Mikie\Documents\Visual Studio 2015\Projects\Fuck About Stuff\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+Z:\Users\Mikie\Documents\Visual Studio 2015\Projects\Fuck About Stuff\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+Z:\Users\Mikie\Documents\Visual Studio 2015\Projects\Fuck About Stuff\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+Z:\Users\Mikie\Documents\Visual Studio 2015\Projects\Fuck About Stuff\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+Z:\Users\Mikie\Documents\Visual Studio 2015\Projects\Fuck About Stuff\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+Z:\Users\Mikie\Documents\Visual Studio 2015\Projects\Fuck About Stuff\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+Z:\Users\Mikie\Documents\Visual Studio 2015\Projects\Fuck About Stuff\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+Z:\Users\Mikie\Documents\Visual Studio 2015\Projects\Fuck About Stuff\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+Z:\Users\Mikie\Documents\Visual Studio 2015\Projects\Fuck About Stuff\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+Z:\Users\Mikie\Documents\Visual Studio 2015\Projects\Fuck About Stuff\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+Z:\Users\Mikie\Documents\Visual Studio 2015\Projects\Fuck About Stuff\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+Z:\Users\Mikie\Documents\Visual Studio 2015\Projects\Fuck About Stuff\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+Z:\Users\Mikie\Documents\Visual Studio 2015\Projects\Fuck About Stuff\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+Z:\Users\Mikie\Documents\Visual Studio 2015\Projects\Fuck About Stuff\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
